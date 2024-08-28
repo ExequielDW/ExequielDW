@@ -1,6 +1,4 @@
-<img src="banner.png">
 <h1 align="center">Hola 👋  soy Exequiel ✨ </h1> 
-
 <p align="left">
 <a href="https://www.linkedin.com/in/exequiel-gonzalez1" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="exequiel-gonzalez"/></a>
 <a href="https://www.facebook.com/exequiel.gonzalez.5602728" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="exequiel-gonzalez"  /></a>

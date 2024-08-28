@@ -1,3 +1,4 @@
+<img src="banner.png">
 <h1 align="center">Hola 👋  soy Exequiel ✨ </h1> 
 
 <p align="left">
@@ -12,7 +13,7 @@
 <p align="left">
 🎓 Licenciado en Psicología
 
-💻 Comenzandos mis primeros paso en el mundo del desarrollo
+💻 Comenzando mis primeros paso en el mundo del desarrollo
 
 📝 roles en el ámbito: desarrollador...programador freelance... y en un futuro quién sabe ☺️
 

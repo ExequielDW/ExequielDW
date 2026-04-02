@@ -11,7 +11,7 @@
 <p align="left">
 🎓 Licenciado en Psicología
 
-💻 Comenzando mis primeros paso en el mundo del desarrollo
+💻Estudiante de la Tecnicatura universitaria en Programación UTN
 
 📝 roles en el ámbito: desarrollador...programador freelance... y en un futuro quién sabe ☺️
 

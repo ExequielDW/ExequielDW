@@ -1,7 +1,7 @@
 <h1 align="center">Exequiel González</h1>
 
 <p align="center">
-Programming Student • Python Developer • Automation & Data Enthusiast
+  Programming Student • Python Developer • Automation & Data Enthusiast
 </p>
 
 <p align="center">
@@ -18,39 +18,59 @@ Programming Student • Python Developer • Automation & Data Enthusiast
 
 ## About Me
 
-I am currently studying Programming at UTN while building projects focused on:
+Programming student at UTN focused on building solid foundations in software development, automation, and data-oriented workflows.
+
+Currently working with:
 
 - Python development
-- Automation
 - Data analysis with Pandas
-- SQL and databases
+- SQL and relational databases
 - Backend fundamentals
-- AI-assisted development workflows
+- Git & GitHub workflows
+- AI-assisted development tools
 
-I also hold a degree in Psychology, which gives me a strong background in analytical thinking, communication, and problem solving.
+Background in Psychology with strong analytical thinking, communication skills, and problem-solving orientation.
 
 ---
 
 ## Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,mysql,sqlite,git,github,vscode,bash" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,mysql,sqlite,git,github,vscode,bash&theme=dark" />
+</p>
+
+---
+
+## GitHub Overview
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ExequielDW&theme=tokyonight" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ExequielDW&theme=tokyonight" 
+  />
+  
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ExequielDW&theme=tokyonight" 
+  />
 </p>
 
 ---
 
 ## Current Focus
 
-- Improving problem-solving skills through programming exercises
+- Strengthening programming logic and problem-solving skills
 - Building real-world Python projects
-- Learning software development workflows and tools
-- Exploring AI tools for development productivity
+- Improving backend and database knowledge
+- Learning efficient AI-assisted development workflows
+- Expanding software engineering fundamentals
 
 ---
 
-## GitHub Stats
+## Philosophy
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExequielDW&layout=compact&theme=tokyonight" />
-</p>
-
+> Clean code, continuous learning, and practical problem solving.

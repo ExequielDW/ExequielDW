@@ -1,4 +1,4 @@
-<h1 align="center">Exequiel González</h1>
+<h1 align="center">Exequiel Gonzalez</h1>
 
 <p align="center">
   Programming Student • Python Developer • Automation & Data Enthusiast

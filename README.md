@@ -28,6 +28,8 @@ Currently working with:
 - Backend fundamentals
 - Git & GitHub workflows
 - AI-assisted development tools
+- Mongo DB
+- Fast Api
 
 Background in Psychology with strong analytical thinking, communication skills, and problem-solving orientation.
 
